@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b898a0c3-44fb-4818-acf6-57b263407128": {
+      "ProjectGuid": "b898a0c3-44fb-4818-acf6-57b263407128",
+      "DisplayName": "EchoClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
